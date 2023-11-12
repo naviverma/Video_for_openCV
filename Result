@@ -1,0 +1,663 @@
+navi@pc-141-249 build % make
+[ 50%] Building CXX object CMakeFiles/MyProject.dir/MyApplication.cpp.o
+[100%] Linking CXX executable MyProject
+[100%] Built target MyProject
+navi@pc-141-249 build % ./MyProject
+Frame: 32 - Ball hit by player
+Ball Coordinates: (535.709, 348.35)
+Frame: 33 - Ball hit by player
+Ball Coordinates: (522.189, 348.765)
+Frame: 38 - Ball hit by player
+Ball Coordinates: (492.571, 349.502)
+Frame: 39 - Ball hit the table
+Ball Coordinates: (462.939, 350.313)
+Frame: 44 - Ball hit by player
+Ball Coordinates: (417.664, 335.938)
+Frame: 50 - Ball hit by player
+Ball Coordinates: (306.188, 295.4)
+Frame: 51 - Ball hit by player
+Ball Coordinates: (314.138, 289.8)
+Frame: 54 - Ball hit the table
+Ball Coordinates: (297.837, 286.953)
+Frame: 58 - Ball hit by player
+Ball Coordinates: (487.92, 325.786)
+Frame: 73 - Ball hit the table
+Ball Coordinates: (534.904, 334.04)
+Frame: 74 - Ball hit the table
+Ball Coordinates: (549.925, 334.944)
+Frame: 75 - Ball hit the table
+Ball Coordinates: (559.326, 336.794)
+Frame: 93 - Ball hit the table
+Ball Coordinates: (533.375, 338.144)
+Frame: 94 - Ball hit by player
+Ball Coordinates: (559.477, 336.741)
+Frame: 96 - Ball hit by player
+Ball Coordinates: (516.077, 330.041)
+Frame: 97 - Ball hit by player
+Ball Coordinates: (493.143, 323.758)
+Frame: 104 - Ball hit the table
+Ball Coordinates: (485.743, 325.158)
+Frame: 107 - Ball hit by player
+Ball Coordinates: (480.743, 324.058)
+Frame: 120 - Ball hit by player
+Ball Coordinates: (460.924, 325.406)
+Frame: 121 - Ball hit by player
+Ball Coordinates: (455.274, 322.456)
+Frame: 158 - Ball hit by player
+Ball Coordinates: (445.374, 325.506)
+Frame: 169 - Ball hit the table
+Ball Coordinates: (490.731, 328.414)
+Frame: 172 - Ball hit by player
+Ball Coordinates: (466.47, 309.256)
+Frame: 174 - Ball hit the table
+Ball Coordinates: (466.346, 294.2)
+Frame: 176 - Ball hit by player
+Ball Coordinates: (490.752, 279)
+Frame: 177 - Ball hit by player
+Ball Coordinates: (486.115, 270.449)
+Frame: 178 - Ball hit by player
+Ball Coordinates: (478.065, 262.775)
+Frame: 210 - Ball hit by player
+Ball Coordinates: (470.762, 251.883)
+Frame: 212 - Ball hit by player
+Ball Coordinates: (429.189, 229.942)
+Frame: 222 - Ball hit by player
+Ball Coordinates: (448.165, 242.115)
+Frame: 272 - Ball hit by player
+Ball Coordinates: (494.253, 239.847)
+Frame: 273 - Ball hit by player
+Ball Coordinates: (496.505, 244.458)
+Frame: 316 - Ball hit by player
+Ball Coordinates: (514.305, 269.291)
+Frame: 328 - Ball hit the table
+Ball Coordinates: (470.234, 290.868)
+Frame: 349 - Ball hit by player
+Ball Coordinates: (155.832, 214.517)
+Frame: 356 - Ball hit the table
+Ball Coordinates: (170.104, 256.23)
+Frame: 361 - Ball hit the table
+Ball Coordinates: (174.009, 273.192)
+Frame: 368 - Ball hit the table
+Ball Coordinates: (172.159, 305.592)
+Frame: 376 - Ball hit by player
+Ball Coordinates: (169.314, 303.019)
+Frame: 403 - Ball hit by player
+Ball Coordinates: (175.288, 310.96)
+Frame: 404 - Ball hit by player
+Ball Coordinates: (178.6, 322.189)
+Frame: 406 - Ball hit the table
+Ball Coordinates: (188.783, 334.691)
+Frame: 407 - Ball hit the table
+Ball Coordinates: (189.883, 340.791)
+Frame: 421 - Ball hit the table
+Ball Coordinates: (222.128, 342.729)
+Frame: 427 - Ball hit the table
+Ball Coordinates: (333.046, 357.627)
+Frame: 448 - Ball hit by player
+Ball Coordinates: (481.283, 362.98)
+Frame: 485 - Ball hit by player
+Ball Coordinates: (490.566, 350.275)
+Frame: 487 - Ball hit the table
+Ball Coordinates: (480.389, 327.93)
+Frame: 488 - Ball hit by player
+Ball Coordinates: (481.321, 316.512)
+Frame: 489 - Ball hit by player
+Ball Coordinates: (480.27, 306.118)
+Frame: 490 - Ball hit by player
+Ball Coordinates: (476.813, 297.1)
+Frame: 491 - Ball hit by player
+Ball Coordinates: (469.665, 289.466)
+Frame: 492 - Ball hit by player
+Ball Coordinates: (457.765, 287.016)
+Frame: 493 - Ball hit by player
+Ball Coordinates: (443.475, 283.024)
+Frame: 497 - Ball hit by player
+Ball Coordinates: (385.875, 282.907)
+Frame: 500 - Ball hit the table
+Ball Coordinates: (327.286, 299.157)
+Frame: 501 - Ball hit the table
+Ball Coordinates: (303.598, 303.657)
+Frame: 502 - Ball hit the table
+Ball Coordinates: (286.142, 306.931)
+Frame: 503 - Ball hit the table
+Ball Coordinates: (274.692, 308.631)
+Frame: 504 - Ball hit the table
+Ball Coordinates: (269.136, 308.831)
+Frame: 510 - Ball hit by player
+Ball Coordinates: (277.761, 311.429)
+Frame: 517 - Ball hit the table
+Ball Coordinates: (441.597, 331.889)
+Frame: 525 - Ball hit by player
+Ball Coordinates: (497, 338.038)
+Frame: 526 - Ball hit the table
+Ball Coordinates: (518.349, 338.181)
+Frame: 529 - Ball hit the table
+Ball Coordinates: (607.312, 349.209)
+Frame: 532 - Ball hit the table
+Ball Coordinates: (622.893, 350.012)
+Frame: 533 - Ball hit the table
+Ball Coordinates: (607.877, 340.451)
+Frame: 552 - Ball hit by player
+Ball Coordinates: (553.921, 320.633)
+Frame: 553 - Ball hit by player
+Ball Coordinates: (540.319, 316.34)
+Frame: 555 - Ball hit by player
+Ball Coordinates: (513.628, 308.238)
+Frame: 556 - Ball hit the table
+Ball Coordinates: (504.267, 305.652)
+Frame: 561 - Ball hit the table
+Ball Coordinates: (508.981, 313.405)
+Frame: 563 - Ball hit the table
+Ball Coordinates: (522.06, 325.19)
+Frame: 577 - Ball hit the table
+Ball Coordinates: (571.214, 339.203)
+Frame: 578 - Ball hit the table
+Ball Coordinates: (573.596, 339.039)
+Frame: 622 - Ball hit the table
+Ball Coordinates: (549.402, 312.696)
+Frame: 623 - Ball hit by player
+Ball Coordinates: (539.246, 306.635)
+Frame: 626 - Ball hit by player
+Ball Coordinates: (520.462, 303.84)
+Frame: 628 - Ball hit by player
+Ball Coordinates: (496.506, 304.327)
+Frame: 632 - Ball hit by player
+Ball Coordinates: (462.499, 306.864)
+Frame: 636 - Ball hit the table
+Ball Coordinates: (433.742, 304.902)
+Frame: 637 - Ball hit the table
+Ball Coordinates: (408.236, 302.59)
+Frame: 638 - Ball hit the table
+Ball Coordinates: (386.029, 300.128)
+Frame: 640 - Ball hit by player
+Ball Coordinates: (351.948, 302.066)
+Frame: 641 - Ball hit by player
+Ball Coordinates: (343.273, 307.016)
+Frame: 664 - Ball hit by player
+Ball Coordinates: (346.823, 305.816)
+Frame: 667 - Ball hit the table
+Ball Coordinates: (348.544, 302.15)
+Frame: 668 - Ball hit by player
+Ball Coordinates: (355.439, 295.2)
+Frame: 669 - Ball hit by player
+Ball Coordinates: (369.139, 286.95)
+Frame: 670 - Ball hit by player
+Ball Coordinates: (374.52, 284.262)
+Frame: 671 - Ball hit by player
+Ball Coordinates: (373.62, 283.162)
+Frame: 672 - Ball hit by player
+Ball Coordinates: (366.42, 283.512)
+Frame: 679 - Ball hit by player
+Ball Coordinates: (354.32, 288.062)
+Frame: 680 - Ball hit the table
+Ball Coordinates: (341.97, 291.962)
+Frame: 683 - Ball hit by player
+Ball Coordinates: (286.475, 295.662)
+Frame: 684 - Ball hit by player
+Ball Coordinates: (280.965, 303.412)
+Frame: 686 - Ball hit by player
+Ball Coordinates: (286.765, 312.212)
+Frame: 687 - Ball hit the table
+Ball Coordinates: (295.634, 319.95)
+Frame: 695 - Ball hit the table
+Ball Coordinates: (339.998, 331.84)
+Frame: 701 - Ball hit by player
+Ball Coordinates: (393.197, 351.566)
+Frame: 706 - Ball hit the table
+Ball Coordinates: (406.697, 354.216)
+Frame: 707 - Ball hit by player
+Ball Coordinates: (420.097, 357.566)
+Frame: 712 - Ball hit the table
+Ball Coordinates: (399.922, 359.923)
+Frame: 715 - Ball hit the table
+Ball Coordinates: (401.672, 361.123)
+Frame: 716 - Ball hit by player
+Ball Coordinates: (400.772, 361.973)
+Frame: 717 - Ball hit the table
+Ball Coordinates: (413.209, 366.683)
+Frame: 725 - Ball hit the table
+Ball Coordinates: (408.509, 367.033)
+Frame: 730 - Ball hit the table
+Ball Coordinates: (393.06, 361.357)
+Frame: 733 - Ball hit by player
+Ball Coordinates: (376.71, 356.157)
+Frame: 749 - Ball hit by player
+Ball Coordinates: (350.996, 354.916)
+Frame: 753 - Ball hit by player
+Ball Coordinates: (329.666, 343.822)
+Frame: 755 - Ball hit by player
+Ball Coordinates: (311.259, 329.692)
+Frame: 783 - Ball hit by player
+Ball Coordinates: (364.932, 397.128)
+Frame: 808 - Ball hit by player
+Ball Coordinates: (368.046, 380.112)
+Frame: 809 - Ball hit the table
+Ball Coordinates: (375.527, 372.546)
+Frame: 822 - Ball hit by player
+Ball Coordinates: (388.084, 358.336)
+Frame: 826 - Ball hit by player
+Ball Coordinates: (420.117, 353.37)
+Frame: 829 - Ball hit by player
+Ball Coordinates: (432.883, 336.863)
+Frame: 830 - Ball hit the table
+Ball Coordinates: (442.553, 320.418)
+Frame: 832 - Ball hit the table
+Ball Coordinates: (479.406, 308.929)
+Frame: 834 - Ball hit by player
+Ball Coordinates: (476.326, 300.879)
+Frame: 835 - Ball hit by player
+Ball Coordinates: (470.473, 293.621)
+Frame: 837 - Ball hit by player
+Ball Coordinates: (478.544, 278.506)
+Frame: 838 - Ball hit by player
+Ball Coordinates: (438.373, 274.32)
+Frame: 866 - Ball hit by player
+Ball Coordinates: (407.773, 259.52)
+Frame: 867 - Ball hit by player
+Ball Coordinates: (400.915, 256.991)
+Frame: 868 - Ball hit by player
+Ball Coordinates: (396.953, 254.503)
+Frame: 869 - Ball hit by player
+Ball Coordinates: (399.848, 245.611)
+Frame: 870 - Ball hit by player
+Ball Coordinates: (402.698, 245.761)
+Frame: 871 - Ball hit by player
+Ball Coordinates: (417.148, 246.611)
+Frame: 942 - Ball hit by player
+Ball Coordinates: (417.714, 241.507)
+Frame: 944 - Ball hit by player
+Ball Coordinates: (424.342, 231.171)
+Frame: 945 - Ball hit by player
+Ball Coordinates: (435.992, 226.121)
+Frame: 946 - Ball hit by player
+Ball Coordinates: (441.342, 229.971)
+Frame: 947 - Ball hit by player
+Ball Coordinates: (445.7, 234.7)
+Frame: 948 - Ball hit by player
+Ball Coordinates: (452.55, 241.45)
+Frame: 970 - Ball hit the table
+Ball Coordinates: (555.766, 274.276)
+Frame: 971 - Ball hit the table
+Ball Coordinates: (565.122, 274.042)
+Frame: 972 - Ball hit by player
+Ball Coordinates: (550.733, 266.425)
+Frame: 973 - Ball hit by player
+Ball Coordinates: (530.414, 261.263)
+Frame: 974 - Ball hit by player
+Ball Coordinates: (525.964, 262.186)
+Frame: 975 - Ball hit by player
+Ball Coordinates: (518.395, 264.707)
+Frame: 976 - Ball hit by player
+Ball Coordinates: (507.914, 269.304)
+Frame: 993 - Ball hit by player
+Ball Coordinates: (494.047, 269.599)
+Frame: 994 - Ball hit by player
+Ball Coordinates: (479.655, 269.653)
+Frame: 996 - Ball hit by player
+Ball Coordinates: (451.505, 271.853)
+Frame: 997 - Ball hit the table
+Ball Coordinates: (443.596, 276.205)
+Frame: 998 - Ball hit by player
+Ball Coordinates: (438.787, 281.707)
+Frame: 1003 - Ball hit the table
+Ball Coordinates: (453.526, 296.224)
+Frame: 1017 - Ball hit by player
+Ball Coordinates: (462.526, 296.432)
+Frame: 1018 - Ball hit the table
+Ball Coordinates: (471.526, 296.641)
+Frame: 1019 - Ball hit by player
+Ball Coordinates: (479.896, 295.767)
+Frame: 1020 - Ball hit by player
+Ball Coordinates: (487.71, 293.773)
+Frame: 1021 - Ball hit by player
+Ball Coordinates: (494.973, 296.685)
+Frame: 1022 - Ball hit by player
+Ball Coordinates: (498.772, 300.852)
+Frame: 1023 - Ball hit by player
+Ball Coordinates: (489.222, 304.602)
+Frame: 1030 - Ball hit by player
+Ball Coordinates: (457.672, 310.202)
+Frame: 1035 - Ball hit the table
+Ball Coordinates: (439.472, 308.131)
+Frame: 1042 - Ball hit by player
+Ball Coordinates: (387.96, 297.414)
+Frame: 1048 - Ball hit by player
+Ball Coordinates: (426.587, 309.546)
+Frame: 1049 - Ball hit by player
+Ball Coordinates: (457.588, 314.829)
+Frame: 1052 - Ball hit the table
+Ball Coordinates: (541.369, 316.342)
+Frame: 1059 - Ball hit the table
+Ball Coordinates: (581.619, 319.837)
+Frame: 1061 - Ball hit by player
+Ball Coordinates: (601.33, 316.237)
+Frame: 1062 - Ball hit the table
+Ball Coordinates: (598.921, 310.137)
+Frame: 1063 - Ball hit the table
+Ball Coordinates: (593.262, 304.337)
+Frame: 1064 - Ball hit the table
+Ball Coordinates: (584.503, 297.337)
+Frame: 1066 - Ball hit by player
+Ball Coordinates: (553.103, 285.087)
+Frame: 1067 - Ball hit by player
+Ball Coordinates: (520.335, 274.924)
+Frame: 1068 - Ball hit by player
+Ball Coordinates: (509.876, 270.941)
+Frame: 1069 - Ball hit by player
+Ball Coordinates: (495.526, 268.66)
+Frame: 1086 - Ball hit by player
+Ball Coordinates: (451.805, 261.382)
+Frame: 1087 - Ball hit by player
+Ball Coordinates: (410.555, 256.837)
+Frame: 1091 - Ball hit by player
+Ball Coordinates: (404.255, 264.237)
+Frame: 1098 - Ball hit the table
+Ball Coordinates: (416.373, 282.887)
+Frame: 1113 - Ball hit the table
+Ball Coordinates: (489.281, 296.076)
+Frame: 1115 - Ball hit by player
+Ball Coordinates: (491.203, 285.785)
+Frame: 1116 - Ball hit by player
+Ball Coordinates: (499.257, 284.515)
+Frame: 1117 - Ball hit by player
+Ball Coordinates: (504.191, 283.93)
+Frame: 1118 - Ball hit by player
+Ball Coordinates: (506.057, 284.292)
+Frame: 1119 - Ball hit by player
+Ball Coordinates: (504.449, 285.782)
+Frame: 1120 - Ball hit by player
+Ball Coordinates: (499.105, 288.94)
+Frame: 1126 - Ball hit by player
+Ball Coordinates: (449.083, 294.718)
+Frame: 1127 - Ball hit the table
+Ball Coordinates: (421.635, 299.102)
+Frame: 1134 - Ball hit the table
+Ball Coordinates: (400.411, 302.052)
+Frame: 1135 - Ball hit the table
+Ball Coordinates: (379.188, 305.002)
+Frame: 1136 - Ball hit by player
+Ball Coordinates: (364.071, 307.626)
+Frame: 1137 - Ball hit by player
+Ball Coordinates: (354.815, 310.128)
+Frame: 1138 - Ball hit by player
+Ball Coordinates: (351.396, 312.361)
+Frame: 1139 - Ball hit by player
+Ball Coordinates: (353.696, 314.261)
+Frame: 1144 - Ball hit the table
+Ball Coordinates: (373.896, 321.811)
+Frame: 1145 - Ball hit by player
+Ball Coordinates: (396.846, 327.661)
+Frame: 1156 - Ball hit the table
+Ball Coordinates: (446.687, 323.44)
+Frame: 1158 - Ball hit by player
+Ball Coordinates: (516.661, 320.04)
+Frame: 1159 - Ball hit the table
+Ball Coordinates: (536.834, 318.09)
+Frame: 1160 - Ball hit by player
+Ball Coordinates: (550.889, 316.282)
+Frame: 1181 - Ball hit by player
+Ball Coordinates: (550.039, 316.182)
+Frame: 1182 - Ball hit the table
+Ball Coordinates: (546.205, 315.42)
+Frame: 1183 - Ball hit by player
+Ball Coordinates: (543.105, 314.07)
+Frame: 1184 - Ball hit by player
+Ball Coordinates: (528.455, 306.32)
+Frame: 1189 - Ball hit the table
+Ball Coordinates: (531.131, 306.496)
+Frame: 1190 - Ball hit by player
+Ball Coordinates: (524.612, 312.689)
+Frame: 1192 - Ball hit by player
+Ball Coordinates: (521.573, 317.608)
+Frame: 1202 - Ball hit by player
+Ball Coordinates: (596.362, 327.069)
+Frame: 1206 - Ball hit by player
+Ball Coordinates: (543.612, 316.769)
+Frame: 1207 - Ball hit the table
+Ball Coordinates: (525.745, 314.933)
+Frame: 1208 - Ball hit by player
+Ball Coordinates: (504.363, 314.053)
+Frame: 1209 - Ball hit by player
+Ball Coordinates: (478.314, 314.528)
+Frame: 1212 - Ball hit by player
+Ball Coordinates: (439.614, 316.866)
+Frame: 1214 - Ball hit the table
+Ball Coordinates: (353.968, 317.738)
+Frame: 1217 - Ball hit the table
+Ball Coordinates: (308.118, 316.038)
+Frame: 1220 - Ball hit by player
+Ball Coordinates: (267.949, 313.5)
+Frame: 1222 - Ball hit by player
+Ball Coordinates: (275.131, 305.212)
+Frame: 1223 - Ball hit the table
+Ball Coordinates: (286.731, 298.662)
+Frame: 1224 - Ball hit by player
+Ball Coordinates: (312.581, 290.312)
+Frame: 1225 - Ball hit by player
+Ball Coordinates: (343.681, 284.012)
+Frame: 1295 - Ball hit by player
+Ball Coordinates: (380.531, 284.462)
+Frame: 1500 - Ball hit by player
+Ball Coordinates: (376.539, 261.067)
+Frame: 1501 - Ball hit by player
+Ball Coordinates: (374.119, 267.967)
+Frame: 1502 - Ball hit by player
+Ball Coordinates: (354.483, 257.382)
+Frame: 1509 - Ball hit the table
+Ball Coordinates: (428.516, 312.07)
+Frame: 1510 - Ball hit by player
+Ball Coordinates: (426.716, 312.92)
+Frame: 1511 - Ball hit by player
+Ball Coordinates: (413.516, 308.07)
+Frame: 1524 - Ball hit the table
+Ball Coordinates: (344.767, 294.376)
+Frame: 1526 - Ball hit by player
+Ball Coordinates: (338.472, 306.677)
+Frame: 1527 - Ball hit by player
+Ball Coordinates: (323.542, 313.591)
+Frame: 1528 - Ball hit by player
+Ball Coordinates: (302.442, 321.841)
+Frame: 1530 - Ball hit by player
+Ball Coordinates: (341.72, 359.405)
+Frame: 1533 - Ball hit the table
+Ball Coordinates: (403.2, 373.2)
+Frame: 1534 - Ball hit by player
+Ball Coordinates: (375.688, 374.587)
+Frame: 1535 - Ball hit by player
+Ball Coordinates: (399.737, 373.538)
+Frame: 1549 - Ball hit the table
+Ball Coordinates: (492.953, 371.292)
+Frame: 1579 - Ball hit the table
+Ball Coordinates: (491.27, 369.867)
+Frame: 1580 - Ball hit the table
+Ball Coordinates: (490.178, 367.66)
+Frame: 1581 - Ball hit the table
+Ball Coordinates: (489.376, 365.697)
+Frame: 1586 - Ball hit the table
+Ball Coordinates: (506.969, 363.916)
+Frame: 1592 - Ball hit by player
+Ball Coordinates: (561.42, 363.689)
+Frame: 1597 - Ball hit by player
+Ball Coordinates: (593.272, 361.037)
+Frame: 1598 - Ball hit by player
+Ball Coordinates: (623.972, 358.887)
+Frame: 1606 - Ball hit by player
+Ball Coordinates: (631.422, 352.077)
+Frame: 1607 - Ball hit by player
+Ball Coordinates: (623.272, 344.591)
+Frame: 1608 - Ball hit by player
+Ball Coordinates: (621.545, 336.677)
+Frame: 1629 - Ball hit by player
+Ball Coordinates: (620.871, 328.602)
+Frame: 1631 - Ball hit by player
+Ball Coordinates: (603.817, 308.963)
+Frame: 1650 - Ball hit by player
+Ball Coordinates: (660.927, 318.42)
+Frame: 1651 - Ball hit the table
+Ball Coordinates: (645.016, 307.315)
+Frame: 1652 - Ball hit by player
+Ball Coordinates: (639.032, 299.715)
+Frame: 1653 - Ball hit by player
+Ball Coordinates: (629.236, 292.175)
+Frame: 1654 - Ball hit by player
+Ball Coordinates: (616.178, 285.088)
+Frame: 1655 - Ball hit by player
+Ball Coordinates: (599.962, 278.948)
+Frame: 1656 - Ball hit by player
+Ball Coordinates: (580.655, 274.061)
+Frame: 1675 - Ball hit by player
+Ball Coordinates: (558.389, 268.588)
+Frame: 1677 - Ball hit by player
+Ball Coordinates: (503.629, 260.274)
+Frame: 1678 - Ball hit by player
+Ball Coordinates: (491.652, 263.86)
+Frame: 1679 - Ball hit by player
+Ball Coordinates: (482.513, 268.266)
+Frame: 1686 - Ball hit by player
+Ball Coordinates: (520.492, 299.509)
+Frame: 1696 - Ball hit the table
+Ball Coordinates: (596.55, 311.12)
+Frame: 1697 - Ball hit by player
+Ball Coordinates: (611.938, 308.484)
+Frame: 1698 - Ball hit by player
+Ball Coordinates: (606.588, 295.034)
+Frame: 1699 - Ball hit the table
+Ball Coordinates: (617.457, 290.947)
+Frame: 1703 - Ball hit by player
+Ball Coordinates: (596.047, 283.437)
+Frame: 1704 - Ball hit by player
+Ball Coordinates: (590.174, 281.31)
+Frame: 1728 - Ball hit by player
+Ball Coordinates: (561.774, 276.36)
+Frame: 1729 - Ball hit by player
+Ball Coordinates: (550.486, 275.087)
+Frame: 1730 - Ball hit by player
+Ball Coordinates: (541.939, 274.522)
+Frame: 1746 - Ball hit the table
+Ball Coordinates: (540.339, 273.072)
+Frame: 1748 - Ball hit by player
+Ball Coordinates: (537.979, 272.051)
+Frame: 1753 - Ball hit the table
+Ball Coordinates: (524.53, 272.193)
+Frame: 1754 - Ball hit the table
+Ball Coordinates: (513.74, 272.632)
+Frame: 1755 - Ball hit by player
+Ball Coordinates: (500.64, 274.232)
+Frame: 1756 - Ball hit by player
+Ball Coordinates: (498.63, 274.262)
+Frame: 1793 - Ball hit by player
+Ball Coordinates: (526.304, 278.388)
+Frame: 1802 - Ball hit the table
+Ball Coordinates: (548.884, 268.427)
+Frame: 1815 - Ball hit by player
+Ball Coordinates: (473.188, 256.23)
+Frame: 1817 - Ball hit the table
+Ball Coordinates: (407.28, 275.77)
+Frame: 1819 - Ball hit by player
+Ball Coordinates: (403.119, 285.288)
+Frame: 1868 - Ball hit by player
+Ball Coordinates: (424.157, 315.362)
+Frame: 1869 - Ball hit the table
+Ball Coordinates: (431.379, 307.139)
+Frame: 1870 - Ball hit by player
+Ball Coordinates: (436.026, 299.592)
+Frame: 1871 - Ball hit by player
+Ball Coordinates: (438.244, 293.025)
+Frame: 1872 - Ball hit by player
+Ball Coordinates: (438.07, 287.507)
+Frame: 1873 - Ball hit by player
+Ball Coordinates: (435.662, 283.414)
+Frame: 1874 - Ball hit by player
+Ball Coordinates: (431.116, 280.774)
+Frame: 1875 - Ball hit by player
+Ball Coordinates: (424.53, 279.807)
+Frame: 1877 - Ball hit by player
+Ball Coordinates: (386.476, 284.24)
+Frame: 1879 - Ball hit the table
+Ball Coordinates: (365.576, 296.976)
+Frame: 1885 - Ball hit the table
+Ball Coordinates: (325.854, 313.388)
+Frame: 1886 - Ball hit the table
+Ball Coordinates: (318.219, 311.864)
+Frame: 1887 - Ball hit the table
+Ball Coordinates: (315.851, 308.638)
+Frame: 1888 - Ball hit the table
+Ball Coordinates: (315.551, 303.738)
+Frame: 1889 - Ball hit by player
+Ball Coordinates: (323.593, 297.009)
+Frame: 1890 - Ball hit by player
+Ball Coordinates: (333.585, 288.23)
+Frame: 1892 - Ball hit by player
+Ball Coordinates: (356.185, 280.081)
+Frame: 1894 - Ball hit the table
+Ball Coordinates: (384.509, 278.832)
+Frame: 1895 - Ball hit by player
+Ball Coordinates: (364.481, 267.342)
+Frame: 1910 - Ball hit by player
+Ball Coordinates: (418.715, 267.697)
+Frame: 1911 - Ball hit the table
+Ball Coordinates: (456.667, 269.212)
+Frame: 1915 - Ball hit by player
+Ball Coordinates: (476.758, 269.522)
+Frame: 1916 - Ball hit by player
+Ball Coordinates: (496.091, 269.846)
+Frame: 1919 - Ball hit by player
+Ball Coordinates: (503.087, 274.087)
+Frame: 1927 - Ball hit by player
+Ball Coordinates: (501.847, 292.589)
+Frame: 1928 - Ball hit the table
+Ball Coordinates: (491.435, 301.316)
+Frame: 1936 - Ball hit the table
+Ball Coordinates: (469.352, 302.521)
+Frame: 1938 - Ball hit the table
+Ball Coordinates: (432.552, 301.621)
+Frame: 1939 - Ball hit the table
+Ball Coordinates: (395.752, 300.721)
+Frame: 1940 - Ball hit by player
+Ball Coordinates: (379.538, 301.099)
+Frame: 1941 - Ball hit by player
+Ball Coordinates: (366.924, 301.776)
+Frame: 1942 - Ball hit by player
+Ball Coordinates: (369.716, 299.047)
+Frame: 1943 - Ball hit by player
+Ball Coordinates: (375.966, 297.197)
+Frame: 1964 - Ball hit the table
+Ball Coordinates: (409.134, 285.617)
+Frame: 1965 - Ball hit the table
+Ball Coordinates: (429.884, 276.392)
+Frame: 1966 - Ball hit by player
+Ball Coordinates: (460.334, 275.342)
+Frame: 1971 - Ball hit by player
+Ball Coordinates: (452.334, 281.692)
+Frame: 1973 - Ball hit by player
+Ball Coordinates: (430.284, 296.342)
+Frame: 1974 - Ball hit the table
+Ball Coordinates: (410.284, 305.992)
+Frame: 1979 - Ball hit the table
+Ball Coordinates: (384.818, 306.579)
+Frame: 1987 - Ball hit by player
+Ball Coordinates: (384.518, 305.979)
+Frame: 1990 - Ball hit by player
+Ball Coordinates: (400.576, 314.458)
+Frame: 2045 - Ball hit by player
+Ball Coordinates: (437.156, 275.279)
+Frame: 2046 - Ball hit by player
+Ball Coordinates: (427.427, 272.604)
+Frame: 2047 - Ball hit by player
+Ball Coordinates: (420.671, 271.388)
+Frame: 2048 - Ball hit by player
+Ball Coordinates: (416.9, 271.872)
+Frame: 2049 - Ball hit by player
+Ball Coordinates: (416.258, 274.345)
+Frame: 2055 - Ball hit the table
+Ball Coordinates: (432.415, 278.824)
+Frame: 2063 - Ball hit by player
+Ball Coordinates: (472.869, 294.903)
+Frame: 2064 - Ball hit by player
+Ball Coordinates: (494.873, 307.254)
+Frame: 2071 - Ball hit by player
+Ball Coordinates: (550.713, 303.867)
+Frame: 2072 - Ball hit the table
+Ball Coordinates: (533.013, 291.216)
+Frame: 2080 - Ball hit by player
+Ball Coordinates: (513.558, 298.23)
